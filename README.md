@@ -1,15 +1,17 @@
 # Roel Automation Support
 
-Professional website for Roel Banuelos — AI Automation & Workflow Support VA.
+Functional service website for Roel Banuelos — AI Automation & Workflow Support VA.
 
-Live site target: https://roel-automation-support.netlify.app/
+Live GitHub Pages: https://prables-syn.github.io/roel-automation-support/
+Netlify target: https://roel-automation-support.netlify.app/
 
-## Includes
-- One-page professional service/portfolio website
-- 5 workflow demo case studies
-- Resume download link
-- LinkedIn and email call-to-action buttons
+## Features
+- Service-focused website, not just a portfolio
+- Clickable service cards and case study modals
+- 5 workflow demos
+- Trial task section
+- Netlify-ready inquiry form with GitHub Pages mailto fallback
+- Resume and LinkedIn buttons
 
 ## Tech
-- Static HTML/CSS/JavaScript
-- Deployable with Netlify or GitHub Pages
+Static HTML/CSS/JavaScript. Deployable with GitHub Pages or Netlify.
